@@ -8,7 +8,7 @@ const iconClass = "h-8 w-8 text-sky-600 inline-block mr-2";
 const IntroduccionContent: React.FC = () => {
   return (
     <div className="space-y-6">
-      <Card title="ANEXO: Orientaciones para la Implementación de Programas de Segunda Especialidad (PSE) en EESP" icon={<BookOpenIcon className={iconClass} />}>
+      <Card title="Orientaciones para la Implementación de Programas de Segunda Especialidad (PSE) en EESP" icon={<BookOpenIcon className={iconClass} />}>
         <p>Las Escuelas de Educación Superior Pedagógica (EESP) están facultadas por la Ley N° 30512 para desarrollar Programas de Segunda Especialidad (PSE). Estos programas se enmarcan en estudios previamente licenciados, son altamente especializados y se clasifican en el nivel de posgrado.</p>
       </Card>
 
